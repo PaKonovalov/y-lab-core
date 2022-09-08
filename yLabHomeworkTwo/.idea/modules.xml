@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ulabEdu/ulabEdu.iml" filepath="$PROJECT_DIR$/ulabEdu/ulabEdu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/yLabHomeworkTwo.iml" filepath="$PROJECT_DIR$/.idea/yLabHomeworkTwo.iml" />
+    </modules>
+  </component>
+</project>
