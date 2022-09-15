@@ -4,183 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9253b007-e4f7-432b-8ecf-323cb28a0cc5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../AdvancedOOPFeatures/homework_1/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AdvancedOOPFeatures/homework_1/checkstyle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AdvancedOOPFeatures/homework_1/data/sortedStaff.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AdvancedOOPFeatures/homework_1/data/staff.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AdvancedOOPFeatures/homework_1/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AdvancedOOPFeatures/homework_1/src/main/java/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AdvancedOOPFeatures/homework_1/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AdvancedOOPFeatures/homework_1/src/test/java/TestSortBySalaryAndAlphabet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AdvancedOOPFeatures/homework_2/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AdvancedOOPFeatures/homework_2/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AdvancedOOPFeatures/homework_2/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AdvancedOOPFeatures/homework_2/.idea/homework_2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AdvancedOOPFeatures/homework_2/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AdvancedOOPFeatures/homework_2/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AdvancedOOPFeatures/homework_2/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AdvancedOOPFeatures/homework_2/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_3_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AdvancedOOPFeatures/homework_2/.idea/libraries/Maven__com_google_guava_failureaccess_1_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AdvancedOOPFeatures/homework_2/.idea/libraries/Maven__com_google_guava_guava_29_0_jre.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AdvancedOOPFeatures/homework_2/.idea/libraries/Maven__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AdvancedOOPFeatures/homework_2/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AdvancedOOPFeatures/homework_2/.idea/libraries/Maven__com_puppycrawl_tools_checkstyle_8_34.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AdvancedOOPFeatures/homework_2/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_9_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AdvancedOOPFeatures/homework_2/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AdvancedOOPFeatures/homework_2/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AdvancedOOPFeatures/homework_2/.idea/libraries/Maven__info_picocli_picocli_4_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AdvancedOOPFeatures/homework_2/.idea/libraries/Maven__net_sf_saxon_Saxon_HE_9_9_1_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AdvancedOOPFeatures/homework_2/.idea/libraries/Maven__org_antlr_antlr4_runtime_4_8_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AdvancedOOPFeatures/homework_2/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AdvancedOOPFeatures/homework_2/.idea/libraries/Maven__org_checkerframework_checker_qual_2_11_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AdvancedOOPFeatures/homework_2/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_6_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AdvancedOOPFeatures/homework_2/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_6_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AdvancedOOPFeatures/homework_2/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_6_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AdvancedOOPFeatures/homework_2/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_6_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AdvancedOOPFeatures/homework_2/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AdvancedOOPFeatures/homework_2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AdvancedOOPFeatures/homework_2/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AdvancedOOPFeatures/homework_2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AdvancedOOPFeatures/homework_2/Airport/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AdvancedOOPFeatures/homework_2/Airport/LambdaExpressions-Airport.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AdvancedOOPFeatures/homework_2/Airport/checkstyle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AdvancedOOPFeatures/homework_2/Airport/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AdvancedOOPFeatures/homework_2/Airport/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AdvancedOOPFeatures/homework_2/Airport/src/test/java/TestFindPlanesLeavingInTheNextTwoHours.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AdvancedOOPFeatures/homework_2/Employees/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AdvancedOOPFeatures/homework_2/Employees/LambdaExpressions-Employee.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AdvancedOOPFeatures/homework_2/Employees/LambdaExpressions7.2-Employee.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AdvancedOOPFeatures/homework_2/Employees/checkstyle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AdvancedOOPFeatures/homework_2/Employees/data/staff.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AdvancedOOPFeatures/homework_2/Employees/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AdvancedOOPFeatures/homework_2/Employees/src/main/java/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AdvancedOOPFeatures/homework_2/Employees/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AdvancedOOPFeatures/homework_2/Employees/src/test/java/TestFindEmployeeByHighestSalary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CompanyInterfases/CompanyInterfases.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Example/target/classes/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Examples/AbstractClasses/AbstractClasses.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Examples/AdvancedOOPFeatures_1/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Examples/AdvancedOOPFeatures_1/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Examples/AdvancedOOPFeatures_1/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Examples/AdvancedOOPFeatures_1/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Examples/AdvancedOOPFeatures_1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Examples/AdvancedOOPFeatures_1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Examples/AdvancedOOPFeatures_1/checkstyle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Examples/AdvancedOOPFeatures_1/data/sortedStaff.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Examples/AdvancedOOPFeatures_1/data/staff.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Examples/AdvancedOOPFeatures_1/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Examples/AdvancedOOPFeatures_1/src/main/java/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Examples/AdvancedOOPFeatures_1/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Examples/AdvancedOOPFeatures_1/src/test/java/TestSortBySalaryAndAlphabet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Examples/AdvancedOOPFeatures_1/target/classes/Employee.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Examples/AdvancedOOPFeatures_1/target/classes/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Examples/AdvancedOOPFeatures_1/target/test-classes/TestSortBySalaryAndAlphabet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Examples/AdvancedOOPFeatures_Employees/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Examples/AdvancedOOPFeatures_Employees/.idea/AdvancedOOPFeatures_Employees.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Examples/AdvancedOOPFeatures_Employees/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Examples/AdvancedOOPFeatures_Employees/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Examples/AdvancedOOPFeatures_Employees/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Examples/AdvancedOOPFeatures_Employees/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Examples/AdvancedOOPFeatures_Employees/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Examples/AdvancedOOPFeatures_Employees/.idea/libraries/Maven__com_google_guava_failureaccess_1_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Examples/AdvancedOOPFeatures_Employees/.idea/libraries/Maven__com_google_guava_guava_31_1_jre.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Examples/AdvancedOOPFeatures_Employees/.idea/libraries/Maven__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Examples/AdvancedOOPFeatures_Employees/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Examples/AdvancedOOPFeatures_Employees/.idea/libraries/Maven__com_puppycrawl_tools_checkstyle_10_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Examples/AdvancedOOPFeatures_Employees/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_9_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Examples/AdvancedOOPFeatures_Employees/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Examples/AdvancedOOPFeatures_Employees/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Examples/AdvancedOOPFeatures_Employees/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Examples/AdvancedOOPFeatures_Employees/.idea/libraries/Maven__info_picocli_picocli_4_6_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Examples/AdvancedOOPFeatures_Employees/.idea/libraries/Maven__net_sf_saxon_Saxon_HE_11_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Examples/AdvancedOOPFeatures_Employees/.idea/libraries/Maven__org_antlr_antlr4_runtime_4_10_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Examples/AdvancedOOPFeatures_Employees/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Examples/AdvancedOOPFeatures_Employees/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Examples/AdvancedOOPFeatures_Employees/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Examples/AdvancedOOPFeatures_Employees/.idea/libraries/Maven__org_checkerframework_checker_qual_3_12_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Examples/AdvancedOOPFeatures_Employees/.idea/libraries/Maven__org_javassist_javassist_3_28_0_GA.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Examples/AdvancedOOPFeatures_Employees/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_6_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Examples/AdvancedOOPFeatures_Employees/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_6_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Examples/AdvancedOOPFeatures_Employees/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_6_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Examples/AdvancedOOPFeatures_Employees/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_6_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Examples/AdvancedOOPFeatures_Employees/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Examples/AdvancedOOPFeatures_Employees/.idea/libraries/Maven__org_reflections_reflections_0_10_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Examples/AdvancedOOPFeatures_Employees/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_32.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Examples/AdvancedOOPFeatures_Employees/.idea/libraries/Maven__org_xmlresolver_xmlresolver_4_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Examples/AdvancedOOPFeatures_Employees/.idea/libraries/Maven__org_xmlresolver_xmlresolver_data_4_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Examples/AdvancedOOPFeatures_Employees/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Examples/AdvancedOOPFeatures_Employees/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Examples/AdvancedOOPFeatures_Employees/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Examples/AdvancedOOPFeatures_Employees/Employees/LambdaExpressions-Employee.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Examples/LambdaExpresions/LambdaExpresions.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Examples/LambdaExpresionsTwo/LambdaExpresionsTwo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Examples/Streams/Predicates.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Examples/untitled/.idea/untitled.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringProjet/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringProjet/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringProjet/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringProjet/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringProjet/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringProjet/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringProjet/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringProjet/src/main/java/org/springframework/ClassicalMusic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringProjet/src/main/java/org/springframework/Music.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringProjet/src/main/java/org/springframework/MusicPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringProjet/src/main/java/org/springframework/RockMusic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringProjet/src/main/java/org/springframework/SpringTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringProjet/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringProjet/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringProjet/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringProjet/target/classes/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringProjet/target/classes/org/springframework/SpringTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springAppOne/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springAppOne/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springAppOne/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springAppOne/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springAppOne/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springAppOne/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springAppOne/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springAppOne/springAppOne.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springAppOne/src/main/java/org/springframework/ClassicalMusic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springAppOne/src/main/java/org/springframework/Music.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springAppOne/src/main/java/org/springframework/MusicPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springAppOne/src/main/java/org/springframework/RockMusic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springAppOne/src/main/java/org/springframework/TestSpring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springAppOne/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springAppOne/src/main/resources/musicPlayer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springAppOne/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springAppOne/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../yLabHomeworkTwo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_82.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_24.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_36.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_7_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_jquery_3_6_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/yLabHomeworkTwo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ulabEdu/src/main/java/homework/FuzzySearching.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ulabEdu/target/classes/homework/ComplexExamples$Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ulabEdu/target/classes/homework/ComplexExamples.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ulabEdu/ulabEdu.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AbstractClasses/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AbstractClasses/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AbstractClasses/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AbstractClasses/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AbstractClasses/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AbstractClasses/AbstractClasses.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Communal-Payments" beforeDir="false" afterPath="$PROJECT_DIR$/../Communal-Payments" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Example/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Example/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LambdaExpresions/src/ElectricityConsumer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LambdaExpresions/src/Lamp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LambdaExpresions/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LambdaExpresions/src/Radio.java" beforeDir="false" />
+    <list default="true" id="9253b007-e4f7-432b-8ecf-323cb28a0cc5" name="Changes" comment="Task 3 to check">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -195,6 +20,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="homework-one" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -213,15 +43,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/scott/IdeaProjects/GitHub/Example&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/scott/IdeaProjects/GitHub/y-lab-core/yLabHomeworkTwo"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.ComplexExamples">
     <configuration name="ComplexExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework.ComplexExamples" />
@@ -269,7 +99,30 @@
       <option name="presentableId" value="Default" />
       <updated>1662528559475</updated>
       <workItem from="1662528569504" duration="32335000" />
+      <workItem from="1662658654378" duration="1098000" />
     </task>
+    <task id="LOCAL-00001" summary="Init commit">
+      <created>1662659045340</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662659045340</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Tasks 1 and 2 to check">
+      <created>1662659112811</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1662659112811</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Task 3 to check">
+      <created>1662659127333</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1662659127333</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -285,5 +138,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Init commit" />
+    <MESSAGE value="Tasks 1 and 2 to check" />
+    <MESSAGE value="Task 3 to check" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 3 to check" />
   </component>
 </project>

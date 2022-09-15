@@ -1,18 +1,7 @@
 package homework;
 
-import com.sun.jdi.Value;
-import lombok.EqualsAndHashCode;
-import lombok.Getter;
-import lombok.Setter;
-import org.testng.annotations.Test;
-
 import java.util.*;
-import java.util.function.Function;
 import java.util.stream.Collectors;
-import java.util.stream.IntStream;
-import java.util.stream.Stream;
-
-import static java.util.stream.Collectors.groupingBy;
 
 public class ComplexExamples {
 
@@ -61,6 +50,10 @@ public class ComplexExamples {
             new Person(6, "Amelia"),
             new Person(7, "Amelia"),
             new Person(8, "Amelia"),
+            new Person(8, null),
+            new Person(9, null),
+            new Person(9, null),
+
     };
     /*  Raw data:
 
@@ -96,7 +89,6 @@ public class ComplexExamples {
     1 - Jack (4)
  */
 
-
     public static void main(String[] args) {
         System.out.println("================Task1================\n");
         /*
@@ -114,11 +106,11 @@ public class ComplexExamples {
                 Value:1
          */
         List<Person> listRawData = Arrays.asList(RAW_DATA);
-
-        listRawData.stream()
+        Map<String, Long> mapRawData = listRawData.stream()
+                .filter(name -> Objects.nonNull(name.getName()))
                 .distinct()
-                .collect(groupingBy(Person::getName, Collectors.counting()))
-                .forEach((name, count) -> System.out.println("Key: " + name + "\nValue: " + count));
+                .collect(Collectors.groupingBy(Person::getName, Collectors.counting()));
+        mapRawData.forEach((key, value) -> System.out.println("Key: " + key + "\nValue: " + value));
 
 
         System.out.println("\n================Task2================\n");
@@ -130,10 +122,14 @@ public class ComplexExamples {
         int[] array = {3, 4, 2, 7};
         int resultSum = 10;
 
-        for (int i = 0; i < array.length - 1; i++) {
-            for (int j = i + 1; j < array.length; j++) {
-                if (array[i] + array[j] == resultSum) {
-                    System.out.println("[" + array[i] + "," + array[j] + "]");
+        if (array == null || array.length == 0) {
+            System.out.println("Array is empty");
+        } else {
+            for (int i = 0; i < array.length - 1; i++) {
+                for (int j = i + 1; j < array.length; j++) {
+                    if (array[i] + array[j] == resultSum) {
+                        System.out.println("[" + array[i] + "," + array[j] + "]");
+                    }
                 }
             }
         }

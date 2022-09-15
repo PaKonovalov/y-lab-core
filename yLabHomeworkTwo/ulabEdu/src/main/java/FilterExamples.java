@@ -36,9 +36,9 @@ public class FilterExamples {
 //                .collect(Collectors.toList());
 //        System.out.println(noRepeated);
 //
-        List<String> nullFiltered = names.stream()
-                .filter(Objects::nonNull)
-                .toList();
-        System.out.println(nullFiltered);
+//        List<String> nullFiltered = names.stream()
+//                .filter(Objects::nonNull)
+//                .toList();
+//        System.out.println(nullFiltered);
     }
 }

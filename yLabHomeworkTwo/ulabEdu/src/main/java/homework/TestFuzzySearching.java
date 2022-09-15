@@ -15,6 +15,7 @@ import org.testng.Assert;
 import org.testng.annotations.Test;
 
 public class TestFuzzySearching {
+
     @Test
     public void test() {
         Assert.assertTrue(fuzzySearch("car", "ca6$$#_rtwheel"));
@@ -23,12 +24,19 @@ public class TestFuzzySearching {
         Assert.assertTrue(fuzzySearch("cartwheel", "cartwheel"));
         Assert.assertFalse(fuzzySearch("cwheeel", "cartwheel"));
         Assert.assertFalse(fuzzySearch("lw", "cartwheel"));
+        Assert.assertFalse(fuzzySearch(null, null));
+        Assert.assertFalse(fuzzySearch("", null));
+        Assert.assertFalse(fuzzySearch(null, ""));
+        Assert.assertFalse(fuzzySearch("", ""));
     }
 
     public static boolean fuzzySearch(String needToFind, String string) {
 
-        int indexFind = 0, indexString = 0;
-
+        if (needToFind == null || needToFind.equals("") || string == null || string.equals("")) {
+            return false;
+        }
+        int indexFind = 0;
+        int indexString = 0;
         char[] findChar = needToFind.toCharArray();
         char[] stringChar = string.toCharArray();
 
